@@ -1,11 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="ru">
 <meta charset="UTF-8">
-<title>Программирование на языке PHP</title>
 <body>
-
-	<h1>Типы данных</h1>
-	<h2>Слабая типизация </h2>
 	
 <?php
 $hegemon1 = "'Так ты утверждаешь, что не призывал разрушить... или
@@ -42,6 +38,5 @@ echo <<<HERE
 HERE;
 ?>
 	
-
 </body>
 </html>
