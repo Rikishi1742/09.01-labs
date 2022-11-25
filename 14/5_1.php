@@ -1,6 +1,6 @@
 
-	<?php
-$content = array(
+<?php
+	$content = array(
 	  array('id' => '1','name' => 'Aerosmith','country' => 'США','date' => '1970','style' => 'хард-рок'),
 	  array('id' => '2','name' => 'Pink Floyd','country' => 'Великобритания','date' => '1965','style' => 'психоделический-рок'),
 	  array('id' => '3','name' => 'The Beatles','country' => 'Великобритания','date' => '1960','style' => 'рок-н-ролл'),
@@ -17,6 +17,6 @@ $content = array(
 			
 			echo "<h3>GET-переменная var существует и имеет значение: {$_GET["array"]}";
 		}
-	?>
+?>
 	
 	
