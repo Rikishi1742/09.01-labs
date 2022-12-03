@@ -1,20 +1,20 @@
 <?php
 
-	$albums = array(
-		array('1','The Dark Side of the Moon', '1973', 'Великобритания','id_team' => '2'),
-		array('2','Wish You Were Here', '1975', 'Великобритания','id_team' => '2'),
-		array('3','Greatest Hits', '1999', 'США','id_team' => '2'),
-		array('4','Abbey Road', '1969', 'Великобритания','id_team' => '3'),
-		array('5','A Hard Day\'s Night', '1964', 'Великобритания','id_team' => '3'),
-		array('6','Back in Black', '1980', 'США','id_team' => '4'),
-		array('7','Highway to Hell', '1979', 'Австралия','id_team' => '4'),
-		array('8','The Razors Edge', '1990', 'Австралия','id_team' => '4'),
-		array('9','Let There Be Rock', '1977', 'ФРГ','id_team' => '4'),
-		array('10','Rocks', '1982', 'Великобритания','id_team' => '1'),
-		array('11','Strange Days', '1967', 'США','id_team' => '0'),
-		array('12','L.A. Woman', '1971', 'США','id_team' => '0'),
-		array('13','Greatest Hits', '1978', 'США','id_team' => '3')
-	);
+$albums = array(
+	array('1','The Dark Side of the Moon', '1973', 'Великобритания','id_team' => '2'),
+	array('2','Wish You Were Here', '1975', 'Великобритания','id_team' => '2'),
+	array('3','Greatest Hits', '1999', 'США','id_team' => '2'),
+	array('4','Abbey Road', '1969', 'Великобритания','id_team' => '3'),
+	array('5','A Hard Day\'s Night', '1964', 'Великобритания','id_team' => '3'),
+	array('6','Back in Black', '1980', 'США','id_team' => '4'),
+	array('7','Highway to Hell', '1979', 'Австралия','id_team' => '4'),
+	array('8','The Razors Edge', '1990', 'Австралия','id_team' => '4'),
+	array('9','Let There Be Rock', '1977', 'ФРГ','id_team' => '4'),
+	array('10','Rocks', '1982', 'Великобритания','id_team' => '1'),
+	array('11','Strange Days', '1967', 'США','id_team' => '0'),
+	array('12','L.A. Woman', '1971', 'США','id_team' => '0'),
+	array('13','Greatest Hits', '1978', 'США','id_team' => '3')
+);
 
 $tracks = array(
 		array( '1', 'Back in the Saddle','note' => '','10'),

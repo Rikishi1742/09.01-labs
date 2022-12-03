@@ -1,12 +1,9 @@
 ﻿<!DOCTYPE html>
 <html lang="ru">
 <meta charset="UTF-8">
-<title>Программирование на языке PHP</title>
 <body>
-
-
 	
-	<?php
+<?php
 $x = 5;
 $y = 2;
 $r = --$x / $y;
@@ -26,7 +23,7 @@ echo "t = $t </br>";
 echo "r = $r </br>";
 echo "x = $x </br>";
 echo "y = $y </br>";
-	?>
+?>
 	
 </body>
 </html>

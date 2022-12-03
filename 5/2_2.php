@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <body>
 	<?php
-		$b = 5 ^ 3 ;
+		$b = pow(5, 3)  ;
 		$c = 12 / 3;
 		$d = 30 % 4;
 		$e = -7 * 2;

@@ -7,7 +7,7 @@ if ($_SERVER['REQUEST_METHOD']!= 'POST')
 
 <legend>Необ. указать комментарий</legend>
 
- 
+
 
 <textarea rows="5" cols="40" name="comment">
 </textarea>

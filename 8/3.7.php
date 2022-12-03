@@ -23,6 +23,9 @@ $team = array(
     array('id_album' => '8','name' => 'The Razors Edge','alias' => 'the-razors-edge','country' => 'Австралия','content' => '','date' => '1990','path' => 'assets/albums/the-razors-edge.jpg','note' => NULL,'id_team' => '4'),
     array('id_album' => '13','name' => 'Greatest Hits','alias' => 'greatest-hits','country' => 'США','content' => '','date' => '1978','path' => 'assets/albums/greatest-hits-beatles.jpg','note' => NULL,'id_team' => '3')
   );
+  uksort($album, "id_team");
+
   print_r($album);
+
 ?>
 </pre>

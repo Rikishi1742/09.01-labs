@@ -11,5 +11,7 @@ $album = array(
  
 );
 
+uksort($album, "name");
+
 print_r($album);
 ?>
